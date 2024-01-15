@@ -1,4 +1,4 @@
-# KangHee CHO(조강희)
+# kanghee CHO(조강희)
 Hello I'm undegraduate student in Soongsil University.
 ## My Research Interest
 - 
