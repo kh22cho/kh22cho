@@ -1,4 +1,4 @@
-## kanghee CHO(조강희)
+## Kanghee Cho (조강희)
 Hello I'm undegraduate student in Soongsil University.
 ### My Research Interest
 - Network Biology
