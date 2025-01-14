@@ -1,7 +1,7 @@
 ## Kanghee Cho
-2021 - 2025   
+[ 2021 - 2025 ]   
 Bachelor of Science in Soongsil University   
-2025 -   
+[ 2025 - ]   
 Master student in Soongsil University   
 E-mail : kh22cho@gmail.com   
 ## My Research Interest
