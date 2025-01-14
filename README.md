@@ -1,6 +1,6 @@
 ## Kang-hee Cho (조강희)
-Hello I'm undegraduate student in Soongsil University.
+Master student in Soongsil University
 ## My Research Interest
 - Single cell Analysis
-- GRN
+- ST deconvolution
 - AI and Data Science
