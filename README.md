@@ -1,8 +1,6 @@
 ## Kanghee Cho
-- 2021 - 2025   
-  Bachelor of Science in Soongsil University   
-- 2025 -   
-  Master student in Soongsil University   
+- 2021 - 2026   
+  Integrated Bachelor of Science and Master of Science program in Bioinformatics at Soongsil University   
 ## My Research Interest
 - Single cell Analysis
 - ST deconvolution
